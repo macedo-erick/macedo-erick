@@ -4,14 +4,11 @@
 - Graduating in Systems Analysis and Development at UNIFG.
 - I am 22 years old.
 
-## 📚 My Main Skills
-- Front-End with HTML, CSS, SASS, JS, React, Angular, Aurelia.
-- Back-End with Java (Spring Boot), Python and NodeJs.
-
 ## 🛠 **Languages and Tools**
 <img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/visualstudiocode.svg"/>
 <img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/intellijidea.svg"/>
 <img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/react.svg"/>
+<img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/angular.svg"/>
 <img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/spring.svg"/>
 <img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/html5.svg"/>
 <img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/css3.svg"/>
