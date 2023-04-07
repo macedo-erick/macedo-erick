@@ -16,6 +16,7 @@
 <img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/typescript.svg"/>
 <img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/java.svg"/>
 <img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/python.svg"/>
+<img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/git.svg"/>
 <img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/github.svg"/>
 <img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/kubernetes.svg"/>
 <br />
