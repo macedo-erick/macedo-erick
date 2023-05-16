@@ -23,8 +23,8 @@
 <br />
 
 ## 🏆 **My GitHub Stats**
-## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=macedo-erick&show_icons=true&theme=dracula&border=false&layout=compact)
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macedo-erick&show_icons=true&theme=dracula&border=false&layout=compact)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=macedo-erick&show_icons=true&theme=dracula&border=false&layout=compact) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macedo-erick&show_icons=true&theme=dracula&border=false&layout=compact) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=macedo-erick&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 📬 **Contact Me**
