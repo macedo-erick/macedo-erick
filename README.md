@@ -4,7 +4,7 @@
 - Graduating in Systems Analysis and Development at UNIFG.
 - I am 23 years old.
 
-## 🛠 **Languages and Tools**
+## 🛠 **Tech Stack:**
 <img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/visualstudiocode.svg"/>
 <img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/intellijidea.svg"/>
 <img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/react.svg"/>
@@ -22,7 +22,7 @@
 <br />
 <br />
 
-## 🏆 **My GitHub Stats**
+## 🏆 **GitHub Stats**
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=macedo-erick&show_icons=true&theme=dracula&border=false&layout=compact) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macedo-erick&show_icons=true&theme=dracula&border=false&layout=compact) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=macedo-erick&theme=dark&hide_border=true)](https://git.io/streak-stats)
