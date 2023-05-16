@@ -25,6 +25,7 @@
 ## 🏆 **My GitHub Stats**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=macedo-erick&show_icons=true&theme=dracula&border=false&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macedo-erick&show_icons=true&theme=dracula&border=false&layout=compact)
+![](https://github-readme-stats.vercel-sigma-five.app/api?username=macedo-erick&theme=react&hide_border=false&include_all_commits=false&count_private=true)
 
 ## 📬 **Contact Me**
 [<img align="left" alt="macedo-erick | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/macedo-erick)
