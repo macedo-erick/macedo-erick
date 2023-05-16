@@ -2,7 +2,7 @@
 
 ## 📌 **About Me**
 - Graduating in Systems Analysis and Development at UNIFG.
-- I am 22 years old.
+- I am 23 years old.
 
 ## 🛠 **Languages and Tools**
 <img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/visualstudiocode.svg"/>
@@ -25,7 +25,7 @@
 ## 🏆 **My GitHub Stats**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=macedo-erick&show_icons=true&theme=dracula&border=false&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macedo-erick&show_icons=true&theme=dracula&border=false&layout=compact)
-![](https://github-readme-stats.vercel-sigma-five.app/api?username=macedo-erick&theme=react&hide_border=false&include_all_commits=false&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=macedo-erick&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 📬 **Contact Me**
 [<img align="left" alt="macedo-erick | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/macedo-erick)
