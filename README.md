@@ -2,8 +2,8 @@
 
 ## 📌 **About Me**
 
-- Graduating in Systems Analysis and Development at UNIFG.
-- I am 24 years old.
+- Graduating in Systems Analysis and Development at UNIFBV.
+- I am 25 years old.
 
 ## 🛠 **Tech Stack**
 
